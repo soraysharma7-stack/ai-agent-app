@@ -1,6 +1,6 @@
 # Product Document: Local-First AI Agent App
 
-> Working name: **[App Name]**. Replace it everywhere before launch.
+> Working name: **AutoMake Core**
 > Audience: developers and contributors. Status: MVP planning.
 
 ## 1. Summary
